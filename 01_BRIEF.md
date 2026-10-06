@@ -3,6 +3,8 @@
 **What this project is:** Bennett's personal curiosity space. He picks topics on a whim and
 we take a pass at each. No deliverable. Public sources only.
 
+**Current topic:** 12 (exotic propulsion). Canonical files: topic 12 = `03_PROPULSION_RACE_REPORT.md`; topic 11 = `T11_LUTNICK_ANDRIESZ_BRIEF.md`.
+
 ## Topic 12 (6 Oct 2026): is exotic propulsion the real US-China race?
 
 **The tweet:** "The most important arms race between China and the US is not AI. AI is

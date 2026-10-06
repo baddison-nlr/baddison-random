@@ -21,6 +21,14 @@
 - PLA AI-for-UAP story dated "2023" in some write-ups: it is 2021 SCMP reporting, about
   detection and triage.
 
+### Topic rules
+- The tweet's author was not found. Eric Weinstein (All-In, Aug 2026) is the closest match,
+  not a confirmed source. Do not attribute the tweet to anyone.
+- Do not present Chinese "Mach 16 detonation engine" or "1.5 MW space reactor" headlines as
+  fielded capability [U].
+- UAP reverse-engineering claims are claim/theory. Do not say "declassified files reveal" a
+  race.
+
 ### Open questions
 - Who wrote the tweet?
 - FY2027 NDAA conference outcome for the UAP Disclosure Act (House passed the full version
@@ -43,6 +51,11 @@
 ### Superseded
 - "Shot in the head": replaced by the reported suicide, pending an inquest.
 - "Simon Andrews": the correct spelling is Andriesz.
+
+### Topic rules
+- The "shot in the head" rumour was not found in any source. Do not repeat it as fact.
+- Nothing official (inquest, police statement) was public as of 5 Oct 2026. Do not invent one.
+- Theories implicating Lutnick or BGC in the death have no evidence. Say so when they come up.
 
 ### Open questions
 - Inquest finding; whether the evidence he promised on 9 Aug surfaces; whether the 24 Nov
