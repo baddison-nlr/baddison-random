@@ -1,4 +1,4 @@
-<!-- THE CANONICAL FILE for topic 12. Evidence-class and check-status tags must be preserved. Do not edit here; edit reports/Exotic propulsion race US China.md. -->
+<!-- Canonical for topic 12. Do not edit here; edit reports/Exotic propulsion race US China.md. -->
 
 # AI outranks exotic propulsion in the real race
 

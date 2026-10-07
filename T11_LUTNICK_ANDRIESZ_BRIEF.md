@@ -1,4 +1,4 @@
-<!-- Canonical for topic 11 (previous session). Do not edit here; edit topics/lutnick_andriesz_whistleblower.md. -->
+<!-- Canonical for topic 11. Do not edit here; edit topics/lutnick_andriesz_whistleblower.md. -->
 
 # Howard Lutnick, Epstein, and the death of whistleblower Simon Andriesz
 

@@ -32,6 +32,7 @@ the work project rather than copying its material here.
 | 10 | 2026-09-30 | Follow-up to 9: real potential in bio, polymers and catalysis (jet fuel, recycling, bio-advantaged chemicals, PFAS, minerals) | Bennett | light pass (LanzaJet, Carbios, EPA PFAS rule) | chat only so far |
 | 11 | 2026-10-05 | Howard Lutnick, Epstein ties, and the death of BGC whistleblower Simon Andriesz (theories included, labelled) | Bennett | light pass, news articles fetched | `topics/lutnick_andriesz_whistleblower.md` |
 | 12 | 2026-10-06 | Tweet claim: exotic propulsion is the real US-China race and AI is the tool for it (hypersonics, space nuclear/fusion, UAP/fringe physics, AI-for-physics) | Bennett | deep research, 4 research sweeps plus synthesis | `reports/Exotic propulsion race US China.md`; notes in `research_notes/Exotic propulsion race US China/` |
+| 13 | 2026-10-07 | OpenAI's 6 Oct 2026 release of 722 AI-generated math manuscripts (quasi-Riemann 7/8 half-plane, Mahler, Kaplansky, free group factors): what shipped, credibility, AI-math trajectory, implications | Bennett | deep research, 3 research sweeps plus synthesis; reactions only ~1 day old | `reports/OpenAI math manuscript release.md`; notes in `research_notes/OpenAI math manuscript release/` |
 
 ## Open threads
 
@@ -48,3 +49,4 @@ the work project rather than copying its material here.
   2026-09-30 as `context/handoffs/2026-09-30_crossover_predictive-biology_handoff.md` in the
   work project (written there, not here, because it draws on internal material).
 - [ ] Topic 12: find the tweet's origin; check the FY2027 NDAA UAP Disclosure Act outcome, HACM flight status, PLA "intelligentized warfare" writings, and AI for ultra-high-temperature materials.
+- [ ] Topic 13: revisit in 2-4 weeks for expert technical verdicts (Lean statement audits of families 003, 196, 087, 287), first errors or rediscoveries, competitor responses, and whether OpenAI releases the model.

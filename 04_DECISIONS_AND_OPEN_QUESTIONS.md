@@ -1,5 +1,63 @@
 # Decisions and open questions
 
+## Topic 13 — OpenAI math release (7 Oct 2026)
+
+### Positions held
+- **As a capability demonstration: huge.** Research-level math in bulk, about five months
+  after the first credible single result (the May 2026 unit-distance disproof).
+- **As settled theorems: nothing yet.** No named expert has confirmed or refuted any
+  headline result as of 7 Oct 2026.
+- **Ranking by risk that the formal statement is off** (lowest first): 003 quasi-Riemann
+  (pure Mathlib definitions), 196 Kaplansky zero-divisor, 087 Mahler, then 287 free group
+  factors (bespoke definitions). 197 has a mismatch between headline and formal claim. 032
+  Hodge has no formal proof.
+- **The prior is higher than for a random AI claim**, because the August batch of ten
+  survived a human audit with no surviving error in a main result.
+- **Bottleneck shift:** generating proofs is cheap; refereeing and understanding are the
+  scarce resource.
+- **Biggest structural problem:** the model is unreleased, so nothing can be reproduced and
+  the failure rate cannot be measured.
+
+### Superseded / do-not-quote
+- "162 Lean-formalized results" → **162 papers**, covering 185 formal statements; 235
+  families have partial Lean coverage.
+- "377 families" (Gizmodo headline) → **372** (repo count).
+- "Zero-free region for zeta only" → the repo claims **all Dirichlet L-functions, zeta
+  included**.
+- "Free group factors not formalized" (early aggregators) → **formalized** (family 287).
+- "Torsion-free non-sofic Kaplansky counterexample is Lean-certified" → that is family 197,
+  and its formalized group **has torsion**. The clean torsion-free zero-divisor counterexample
+  is family 196.
+- "The release touches three Millennium problems" (Quartz/WSJ) → overstated. The
+  quasi-Riemann result is not the Riemann hypothesis; Hodge is claimed only for the CM case;
+  Navier–Stokes was a forced variant that Clay still lists as open.
+- Gowers/Hairer "we demand that they stop" → one aggregator only. The advisory group's
+  verified wording is "ask them to stop".
+
+### Topic rules
+- Never say a result is "proven" or "confirmed by mathematicians". Say "claimed, with a Lean
+  check of the formal statement" or "claimed, unformalized".
+- Reactions are about one day old. Do not invent expert verdicts. If Bennett brings news of
+  one, take it as new.
+- Sources disagree on the Fields Medalist letter (25 per Scientific American, 27 in one
+  summary) and on Navier–Stokes cost (about $22M per The Neuron, "several million" per
+  Nature via tech-insider). Give both, or say "disputed".
+- The 2023-2025 milestones (FunSearch, IMO silver and gold, the Oct 2025 Erdős overclaim) are
+  [M] from memory in the report. Flag that if they carry an argument.
+
+### Open questions
+- Do specialists audit the formal statements of 003, 196, 087 and 287 and find them
+  faithful? This is the single best indicator.
+- What is the first error, rediscovery or retraction, and where? Most likely in the
+  unformalized tail or among the roughly 700 lower-profile manuscripts.
+- Does OpenAI release the model or the prompts, or disclose per-result compute and its
+  failure rate?
+- Responses from DeepMind, Anthropic and Chinese labs. Any statement from journals, the AMS
+  or the IMU on bulk AI proofs?
+- Does anyone submit these to journals, and who would be the author?
+- Credit fights: how does the Buckmaster/Navier–Stokes dispute resolve?
+- Revisit in 2-4 weeks.
+
 ## Topic 12 — exotic propulsion race (6 Oct 2026)
 
 ### Positions held
